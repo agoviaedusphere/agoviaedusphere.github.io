@@ -36,7 +36,7 @@ We operate in both **Accra** and **Kumasi** — and deliver nationwide across Gh
 ## Contact Us
 
 📍 Accra · Kumasi  
-📞 Direct Calls: `0244097354` / '0544609746'  
+📞 Direct Calls: `0244097354` / `0544609746`  
 💬 WhatsApp: `++233 559775234` / `+233 544609746`  
 
 ---

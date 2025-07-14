@@ -48,9 +48,8 @@ Whether you're securing your future abroad or importing your next ride, we’re 
 ## Get in Touch
 
 📍 Offices in **Accra** & **Kumasi**  
-📞 Direct: +233 244097354  
-💬 WhatsApp: +233 244097351 / 0544609746  
-📧 Email: [Insert your business email]  
+📞 Direct Calls: `0244097354` / `0544609746`  
+💬 WhatsApp: `++233 559775234` / `+233 544609746`  
 📅 [Book a consultation](https://calendly.com/agovia/30min)
 
 ---

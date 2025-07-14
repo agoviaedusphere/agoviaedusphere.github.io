@@ -8,12 +8,12 @@ baseurl: ""  # No subdirectory
 author:
   name: "Agovia Edusphere Ventures"
   bio: "Global access to cars, travel, and learning."
-  email: "none@example.org"
+  email: "agyeahmotors@gmail.com"
   location: "Ghana"
-  linkedin: ""
+  linkedin: "company/agovia-edusphere-ventures"
   instagram: ""
   facebook: ""
-  github: "agoviaedusphere"
+  # github: "agoviaedusphere"
 
 # Pages to Include
 include:

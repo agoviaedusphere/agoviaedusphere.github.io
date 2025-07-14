@@ -58,7 +58,7 @@ We offer flexible service tiers to fit different needs and budgets. All tiers in
 ## Contact Us
 
 📍 Accra · Kumasi  
-📞 Direct Calls: `0244097354` / '0544609746'  
+📞 Direct Calls: `0244097354` / `0544609746`  
 💬 WhatsApp: `++233 559775234` / `+233 544609746`  
 
 ---

@@ -2,6 +2,9 @@
 # Adjust or add links as needed.
 
 main:
+  - title: "Home"
+    url: /
+
   - title: "About Us"
     url: /about/
 

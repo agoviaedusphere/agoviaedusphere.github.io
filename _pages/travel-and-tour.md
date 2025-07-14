@@ -40,7 +40,7 @@ We’re here to change that.
 We offer flexible service tiers to fit different needs and budgets. All tiers include transparent pricing, personal consultation, and dedicated follow-up.
 
 🧭 Want to learn more?  
-**[Book a free 30-minute consultation](https://calendly.com/agovia/30min)**
+**[Book a free 15-minute consultation](https://calendly.com/agovia/30min)**
 
 ---
 
@@ -55,3 +55,12 @@ We offer flexible service tiers to fit different needs and budgets. All tiers in
 
 **Ready to begin your journey?**  
 📞 Contact us now or schedule your free consultation online.
+## Contact Us
+
+📍 Accra · Kumasi  
+📞 Direct Calls: `0244097354` / '0544609746'  
+💬 WhatsApp: `++233 559775234` / `+233 544609746`  
+
+---
+
+👉 **Contact us today to get started!**

@@ -2,7 +2,7 @@
 title: "Home"
 permalink: /
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 ![Welcome banner](/images/homepage.png)

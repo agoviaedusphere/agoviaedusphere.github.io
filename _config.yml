@@ -6,17 +6,13 @@ baseurl: ""  # No subdirectory
 
 # Author/Business Info
 author:
+  avatar: "profile.png"  # Image must be placed in the /images/ folder
   name: "Agovia Edusphere Ventures"
   bio: "Global access to cars, travel, and learning."
   email: "agyeahmotors@gmail.com"
   location: "Ghana"
-  # linkedin: "company/agovia-edusphere-ventures"
   linkedin: https://www.linkedin.com/company/agovia-edusphere-ventures/
-  # linkedin:"https://www.linkedin.com/company/agovia-edusphere-ventures/?viewAsMember=true"
-  instagram: ""
   facebook: https://www.facebook.com/profile.php?id=61578589762766
-  # github: "agoviaedusphere"
-  # https://www.facebook.com/profile.php?id=61578589762766
 
 # Pages to Include
 include:

@@ -23,7 +23,8 @@ We connect Ghanaians to opportunity through two core services:
 - Port clearance, mechanic help, and parts sourcing available  
 - Service locations in Accra & Kumasi — with **nationwide delivery**
 
-👉 [Explore Car Services »](/retail-services/)
+👉 [Explore Car Services »](/retail-services/)  
+📝 **[Fill the Car Purchase Interest Form](https://qualtricsxmvw4k5jx2g.qualtrics.com/jfe/form/SV_0vy6MR8UJM8u1vM)**
 
 ---
 
@@ -35,7 +36,8 @@ We connect Ghanaians to opportunity through two core services:
 - Backup placements in Europe if U.S. plan shifts  
 - On-arrival support in destination cities
 
-👉 [Explore Student Travel »](/travel-and-tour/)
+👉 [Explore Student Travel »](/travel-and-tour/)  
+📝 **[Fill the Student Travel Interest Form](https://qualtricsxmvw4k5jx2g.qualtrics.com/jfe/form/SV_86Orhak7IrARpie)**
 
 ---
 

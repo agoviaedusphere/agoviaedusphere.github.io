@@ -33,11 +33,18 @@ We operate in both **Accra** and **Kumasi** — and deliver nationwide across Gh
 
 ---
 
+## Register Your Interest
+
+📝 **[Fill the Car Purchase Interest Form](https://qualtricsxmvw4k5jx2g.qualtrics.com/jfe/form/SV_0vy6MR8UJM8u1vM)**  
+Let us know what you're looking for and our team will follow up within 24 hours.
+
+---
+
 ## Contact Us
 
 📍 Accra · Kumasi  
 📞 Direct Calls: `0244097354` / `0544609746`  
-💬 WhatsApp: `++233 559775234` / `+233 544609746`  
+💬 WhatsApp: `+233 559775234` / `+233 544609746`  
 
 ---
 

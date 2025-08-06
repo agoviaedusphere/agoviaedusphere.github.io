@@ -63,7 +63,7 @@ Tell us your goals — and we’ll help make them a reality.
 ## Contact Us
 
 📍 Accra · Kumasi  
-📞 Direct Calls: `0244097354` / `0544609746`  
+📞 Direct Calls: `0244097351` / `0544609746`  
 💬 WhatsApp: `+233 559775234` / `+233 544609746`  
 
 ---

@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 ![Partnerships and Impact Banner](/images/Partnerships.png)
-# Partnerships & Impact
 
 At Agovia Edusphere Ventures, we believe that systemic digital inequality cannot be solved in isolation. To maximize our grassroots reach, ensure absolute operational compliance, and deliver maximum regional impact, we operate through a highly collaborative ecosystem. 
 

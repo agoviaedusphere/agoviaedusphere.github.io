@@ -52,4 +52,4 @@ To maximize our grassroots reach and ensure flawless regional execution across G
 ---
 
 📅 **Partner, Volunteer, or Learn More:** 
-Interested in collaborating with us for our upcoming initiatives? [Contact our team today](mailto:info@agoviaedusphere.com) or book a brief introduction meeting: [https://calendly.com/agovia/30min](https://calendly.com/agovia/30min)
+Interested in collaborating with us for our upcoming initiatives? [Contact our team today](mailto:borderlessbrilliance@gmail.com) or book a brief introduction meeting: [https://calendly.com/agovia/30min](https://calendly.com/agovia/30min)

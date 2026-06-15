@@ -37,7 +37,7 @@ Tailored for first-generation university students from disadvantaged backgrounds
 
 We are actively preparing to launch a specialized, fully funded iteration of our dual-track training framework scheduled for **October 2026**. 
 
-Supervised and coordinated directly through the extensive grassroots deployment network of the **OKB Hope Foundation** and in academic collaboration with senior faculty at the **University of Ghana**, this program will provide completely free, low-bandwidth optimized training slots. In strict alignment with global development goals, 100% of these program resources are allocated to directly benefit youth and students subsisting on less than $2 USD per day.
+Supervised through a trusted grassroots deployment network and developed in academic collaboration with senior faculty at the University of Ghana, this program will provide free, low-bandwidth-optimized training slots. In alignment with global development goals, 100% of program resources are allocated to directly benefit youth and students living on less than $2 USD per day.
 
 ---
 

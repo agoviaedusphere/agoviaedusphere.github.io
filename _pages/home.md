@@ -31,7 +31,7 @@ We design and deliver robust educational frameworks that transition participants
 
 To maximize our grassroots reach and ensure flawless regional execution across Ghana, we coordinate our programs through a highly collaborative ecosystem:
 
-- **OKB Hope Foundation Network:** We actively utilize the extensive community infrastructure and trusted network of the OKB Hope Foundation—a premier 501(c)(3) organization globally recognized by the *CNN Heroes Program* and supported by *The Rockefeller Foundation*.
+- **Community Partner Network:** We actively utilize a trusted network of local implementation partners with deep community relationships and established grassroots infrastructure across Ghana.
 - **Higher Education Integration:** We partner directly with senior academic faculty at the *University of Ghana* to identify, recruit, and mentor under-resourced students, seamlessly bridging institutional knowledge with community outreach.
 - **Research-Backed Methodology:** Our pedagogical frameworks are designed and supervised by our founder, an accomplished data scientist with global research experience backed by the *National Science Foundation (NSF)* and the *UK Government*.
 

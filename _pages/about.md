@@ -24,9 +24,9 @@ We specialize in two distinct, targeted educational pathways engineered to empow
 
 ## 🤝 Strategic Deployment Network
 
-To maximize grassroots impact and ensure flawless regional execution, Agovia Edusphere Ventures operates its programs through a strategic coordination framework that utilizes the extensive existing network of the **OKB Hope Foundation**. 
+To maximize grassroots impact and ensure strong regional execution, Agovia Edusphere Ventures delivers its programs through a strategic coordination framework that leverages trusted, existing community networks across Ghana.
 
-OKB Foundation is a highly respected 501(c)(3) tax-exempt nonprofit globally recognized by the *CNN Heroes Program* and supported by *The Rockefeller Foundation*. While Agovia provides the technical curriculum, data-driven methodology, and academic supervision, leveraging OKB's deeply trusted community infrastructure allows us to securely and efficiently deliver life-changing tech education directly to the most vulnerable populations across Ghana.
+Agovia provides the technical curriculum, data-driven methodology, and academic supervision, while local implementation partners provide the community access, trust, and operational infrastructure needed to reach vulnerable populations securely and efficiently. This model allows us to deliver life-changing technology education directly to the communities that need it most.
 
 ---
 

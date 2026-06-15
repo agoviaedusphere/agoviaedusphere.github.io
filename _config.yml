@@ -1,6 +1,6 @@
 # Basic Site Settings
 title: "Agovia Edusphere Ventures"
-description: "We connect people to cars, countries, and knowledge."
+description: "We connect people to technology and knowledge."
 url: "https://agoviaedusphere.github.io"
 baseurl: ""  # No subdirectory
 
@@ -8,7 +8,7 @@ baseurl: ""  # No subdirectory
 author:
   avatar: "profile.png"  # Image must be placed in the /images/ folder
   name: "Agovia Edusphere Ventures"
-  bio: "Global access to cars, travel, and learning."
+  bio: "Global access to technology and learning."
   email: "agyeahmotors@gmail.com"
   location: "Ghana"
   linkedin: https://www.linkedin.com/company/agovia-edusphere-ventures/
@@ -58,7 +58,7 @@ timezone: Etc/UTC
 
 # Social Sharing (optional)
 og_image:  # default image
-og_description: "Car importation, education consulting, and travel solutions from Ghana to the world."
+og_description: "Education Consulting, AI and Technology Education"
 
 # Compression
 compress_html:

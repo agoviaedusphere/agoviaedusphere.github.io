@@ -42,8 +42,11 @@ To maximize our grassroots reach and ensure flawless regional execution across G
 ### Why Agovia?
 
 ✅ **Leapfrog Methodology:** We bypass legacy tech paths to train students directly on modern, cutting-edge AI tools.
+
 ✅ **Resource-Light Engineering:** Our curriculum is optimized for low-bandwidth environments and basic hardware.
+
 ✅ **Data-Driven Success:** We track strict quantitative metrics—including program completion and tech-sector employment placement—to ensure measurable economic mobility.
+
 ✅ **Elite Leadership:** Built on world-class economic research and globally validated non-profit deployment networks.
 
 ---

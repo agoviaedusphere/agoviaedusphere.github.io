@@ -4,7 +4,7 @@ permalink: /programs/
 layout: single
 author_profile: true
 ---
-
+![Our Programs Banner](/images/Programs.png)
 # Our Educational Programs
 
 At Agovia Edusphere Ventures, we deliver a targeted, two-tiered educational framework engineered to bridge the digital divide and foster immediate socioeconomic mobility. By utilizing our innovative **"Scaffolding Leapfrog Method,"** we deliberately bypass legacy technological training tracks and transition participants directly into leveraging modern cognitive tools. 

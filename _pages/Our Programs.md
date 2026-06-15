@@ -9,7 +9,7 @@ author_profile: true
 
 At Agovia Edusphere Ventures, we deliver a targeted, two-tiered educational framework engineered to bridge the digital divide and foster immediate socioeconomic mobility. By utilizing our innovative **"Scaffolding Leapfrog Method,"** we deliberately bypass legacy technological training tracks and transition participants directly into leveraging modern cognitive tools. 
 
-Our educational initiatives are specifically optimized for resource-constrained environments, ensuring that advanced technical training effectively serves and empowers individuals living in extreme poverty[cite: 1].
+Our educational initiatives are specifically optimized for resource-constrained environments, ensuring that advanced technical training effectively serves and empowers individuals living in extreme poverty.
 
 ---
 
@@ -37,14 +37,14 @@ Tailored for first-generation university students from disadvantaged backgrounds
 
 We are actively preparing to launch a specialized, fully funded iteration of our dual-track training framework scheduled for **October 2026**. 
 
-Supervised and coordinated directly through the extensive grassroots deployment network of the **OKB Hope Foundation** and in academic collaboration with senior faculty at the **University of Ghana**, this program will provide completely free, low-bandwidth optimized training slots. In strict alignment with global development goals, 100% of these program resources are allocated to directly benefit youth and students subsisting on less than $2 USD per day[cite: 1].
+Supervised and coordinated directly through the extensive grassroots deployment network of the **OKB Hope Foundation** and in academic collaboration with senior faculty at the **University of Ghana**, this program will provide completely free, low-bandwidth optimized training slots. In strict alignment with global development goals, 100% of these program resources are allocated to directly benefit youth and students subsisting on less than $2 USD per day.
 
 ---
 
 ## 📈 Accountability & Data-Driven Impact
 
-To ensure our programs deliver genuine economic advancement, Agovia Edusphere Ventures rejects arbitrary metrics and rigorously evaluates success through verified quantitative data[cite: 1]:
+To ensure our programs deliver genuine economic advancement, Agovia Edusphere Ventures rejects arbitrary metrics and rigorously evaluates success through verified quantitative data:
 
-*   **Program Completion Rates:** We maintain absolute transparency by tracking the exact percentage of individuals who successfully fulfill our course requirements and graduate from our initiatives[cite: 1].
-*   **Improved Comprehension Scores:** We utilize standardized pre- and post-course technical assessments to accurately measure baseline improvements in digital literacy and practical AI capabilities[cite: 1].
-*   **Employment & Placement Rates:** We monitor long-term alumni outcomes to measure the rate at which our participants successfully transition into remote internships, localized freelance contracts, or technical employment sectors[cite: 1].
+*   **Program Completion Rates:** We maintain absolute transparency by tracking the exact percentage of individuals who successfully fulfill our course requirements and graduate from our initiatives.
+*   **Improved Comprehension Scores:** We utilize standardized pre- and post-course technical assessments to accurately measure baseline improvements in digital literacy and practical AI capabilities.
+*   **Employment & Placement Rates:** We monitor long-term alumni outcomes to measure the rate at which our participants successfully transition into remote internships, localized freelance contracts, or technical employment sectors.
